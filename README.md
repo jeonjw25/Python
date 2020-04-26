@@ -1,2 +1,3 @@
 # Pygame
-Pygame_repository
+python repository
+
